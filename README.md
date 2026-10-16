@@ -9,6 +9,7 @@ Co-founder of [Benchology](https://benchology.co). We help teams build AI stacks
 
 **Side projects**
 
+- [SeedCast](https://seedcast.co) ([code](https://github.com/Boyao0305/reddit_signal)): a daily map of what people complain about on Reddit and Hacker News. I built it in 2026 to find app ideas and ship them with AI, and stopped building apps once distribution proved too expensive.
 - [game_of_life_evolution](https://github.com/Boyao0305/game_of_life_evolution): headless evolutionary search for interesting Game of Life soups.
 - [game-of-life](https://github.com/Boyao0305/game-of-life): Game of Life on an unbounded sparse grid, in the browser.
 
