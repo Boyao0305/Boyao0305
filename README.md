@@ -1,11 +1,11 @@
 # Boyao Xu
 
-Co-founder of [Benchology](https://benchology.co). We help teams build AI stacks around the way they actually work, starting with benchmarks of GTM and data tools.
+Co-founder of [Benchology](https://benchology.co): independent benchmarks for B2B data decisions. We test which data providers actually find a team's ICP, how accurate their contacts are, and what combining providers adds. I design and run the evaluations: methodology, data matching, coverage analysis and measurement.
 
 **Published studies**
 
+- [Apollo vs Clay, GTM data (Sep 2026)](https://benchology.co/benchmark/gtm-data/2026-09/): 5 ICPs, 2,406 people. Overall the two were 1.9 points apart; by ICP the gap reached 13.2 points and the leader changed.
 - [Web search APIs (Sep 2026)](https://benchology.co/benchmark/search-apis/2026-09/): 7 providers, the same 1,000 SimpleQA questions each, plus a reliability scorecard on price stability, documentation and compliance.
-- [Apollo vs Clay, GTM data (Sep 2026)](https://benchology.co/benchmark/gtm-data/2026-09/): 5 buyer profiles, 2,406 people. Overall the two were 1.9 points apart; by profile the gap reached 13.2 points and the leader changed.
 
 **Side projects**
 
